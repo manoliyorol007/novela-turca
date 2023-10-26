@@ -161,10 +161,6 @@ img {
     background-color: #32353b
 }
 
-.chatlog__message:hover .chatlog__short-timestamp {
-    display: block
-}
-
 .chatlog__message-aside {
     grid-column: 1;
     width: 72px;
