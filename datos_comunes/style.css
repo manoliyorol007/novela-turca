@@ -112,7 +112,9 @@ img {
 
 .preamble__entries-container {
     grid-column: 2;
-    margin-left: 1rem
+    margin-left: 1rem;
+    display: flex;
+    align-items: center;
 }
 
 .preamble__entry {
