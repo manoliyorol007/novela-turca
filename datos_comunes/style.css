@@ -854,3 +854,11 @@ img {
 .postamble__entry {
     color: #ffffff
 }
+
+@media print
+{
+    .no-print, .postamble, .no-print *
+    {
+        display: none !important;
+    }
+}
